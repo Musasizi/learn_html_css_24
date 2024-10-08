@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(227, 208, 208);
+    margin: 5%
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    color: green;
+    font-size: 15px;
+}
+
+div {
+    background-color: rgba(20, 100, 33, 0.2);
+    border-left: 5px solid;
+    /* margin: 10px; */
+    margin-top: 5px;
+    margin-left: 50px;
+
+    padding: 10px 1px;
+    /* padding: 10px 1px 2px 5px; */
+    
+}
+
+.main-paragraph {
+    color: hsl(243, 59%, 49%);
+}
+
+#subtitle {
+    font-size: 15px;
+    color: blue;
+
+}
